@@ -8,7 +8,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : AimBot.js ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`:D`,"http://twitch.tv/Dream")
+client.user.setGame(`مع الحب زيد :heart_eyes::`,"http://twitch.tv/Dream")
 client.user.setStatus("dnd")
 });
 
